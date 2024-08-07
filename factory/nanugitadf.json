@@ -1,0 +1,9 @@
+{
+	"name": "nanugitadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7c613e2d-a3e5-4663-a715-c405dae56c53",
+		"tenantId": "2bf99e5d-ba60-4c35-990a-7f26fa9d9a01"
+	}
+}
